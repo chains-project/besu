@@ -68,7 +68,7 @@ dependencyManagement {
     dependency 'io.jaegertracing:jaeger-client:1.8.0'
     dependency 'io.jaegertracing:jaeger-proto:0.7.0'
 
-    dependency 'io.kubernetes:client-java:15.0.1'
+    dependency 'io.kubernetes:client-java:19.0.0'
 
     dependency 'io.netty:netty-all:4.1.78.Final'
     dependency 'io.netty:netty-tcnative-boringssl-static:2.0.50.Final'

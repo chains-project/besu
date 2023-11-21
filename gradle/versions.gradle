@@ -121,7 +121,7 @@ dependencyManagement {
 
     dependency 'org.apache.logging.log4j:log4j-api:2.17.2'
     dependency 'org.apache.logging.log4j:log4j-core:2.17.2'
-    dependency 'org.apache.logging.log4j:log4j-jul:2.17.2'
+    dependency 'org.apache.logging.log4j:log4j-jul:2.22.0'
     dependency 'org.apache.logging.log4j:log4j-slf4j-impl:2.17.2'
 
     dependency 'org.apache.tuweni:tuweni-bytes:2.2.0'

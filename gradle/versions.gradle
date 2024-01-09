@@ -182,7 +182,7 @@ dependencyManagement {
 
     dependency 'org.rocksdb:rocksdbjni:6.29.5'
 
-    dependency 'org.slf4j:slf4j-api:1.7.36'
+    dependency 'org.slf4j:slf4j-api:2.0.11'
 
     dependency 'org.springframework.security:spring-security-crypto:5.7.2'
 

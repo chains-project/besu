@@ -59,7 +59,7 @@ dependencyManagement {
 
     dependency 'info.picocli:picocli:4.6.3'
 
-    dependencySet(group: 'io.grpc', version: '1.47.0') {
+    dependencySet(group: 'io.grpc', version: '1.61.0') {
       entry'grpc-core'
       entry'grpc-netty'
       entry'grpc-stub'

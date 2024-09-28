@@ -196,7 +196,7 @@ dependencyManagement {
       entry 'crypto'
     }
 
-    dependency 'org.xerial.snappy:snappy-java:1.1.8.4'
+    dependency 'org.xerial.snappy:snappy-java:1.1.10.7'
 
     dependency 'org.yaml:snakeyaml:1.26'
 

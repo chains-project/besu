@@ -157,7 +157,7 @@ dependencyManagement {
 
     dependency 'org.java-websocket:Java-WebSocket:1.5.3'
 
-    dependency 'org.jetbrains.kotlin:kotlin-stdlib:1.7.0'
+    dependency 'org.jetbrains.kotlin:kotlin-stdlib:1.9.25'
 
     dependency 'org.junit.jupiter:junit-jupiter:5.8.2'
     dependency 'org.junit.jupiter:junit-jupiter-api:5.8.2'

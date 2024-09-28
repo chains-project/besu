@@ -65,7 +65,7 @@ dependencyManagement {
       entry'grpc-stub'
     }
 
-    dependency 'io.jaegertracing:jaeger-client:1.8.0'
+    dependency 'io.jaegertracing:jaeger-client:1.8.1'
     dependency 'io.jaegertracing:jaeger-proto:0.7.0'
 
     dependency 'io.kubernetes:client-java:15.0.1'

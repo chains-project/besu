@@ -16,7 +16,7 @@
 dependencyManagement {
   dependencies {
 
-    dependencySet(group:'com.fasterxml.jackson.core', version:'2.13.3') {
+    dependencySet(group:'com.fasterxml.jackson.core', version:'2.18.0') {
       entry 'jackson-databind'
       entry 'jackson-datatype'
       entry 'jackson-datatype-jdk8'

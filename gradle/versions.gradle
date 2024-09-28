@@ -200,6 +200,6 @@ dependencyManagement {
 
     dependency 'org.yaml:snakeyaml:1.26'
 
-    dependency 'tech.pegasys.discovery:discovery:22.2.0'
+    dependency 'tech.pegasys.discovery:discovery:24.9.1'
   }
 }

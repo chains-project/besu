@@ -113,7 +113,7 @@ dependencyManagement {
 
     dependency 'net.consensys.services:quorum-mainnet-launcher:1.0.1'
 
-    dependency 'net.java.dev.jna:jna:5.11.0'
+    dependency 'net.java.dev.jna:jna:5.15.0'
 
     dependency 'org.apache.commons:commons-compress:1.21'
     dependency 'org.apache.commons:commons-lang3:3.12.0'

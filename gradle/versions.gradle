@@ -138,7 +138,7 @@ dependencyManagement {
 
     dependency 'org.assertj:assertj-core:3.23.1'
 
-    dependency 'org.awaitility:awaitility:4.2.0'
+    dependency 'org.awaitility:awaitility:4.2.2'
 
     dependencySet(group: 'org.bouncycastle', version: '1.70') {
       entry'bcpkix-jdk15on'

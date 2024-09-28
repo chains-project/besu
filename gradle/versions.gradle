@@ -31,7 +31,7 @@ dependencyManagement {
 
     dependency 'com.google.auto.service:auto-service:1.0.1'
 
-    dependencySet(group: 'com.google.dagger', version: '2.42') {
+    dependencySet(group: 'com.google.dagger', version: '2.52') {
       entry'dagger-compiler'
       entry'dagger'
     }

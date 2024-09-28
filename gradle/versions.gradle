@@ -98,7 +98,7 @@ dependencyManagement {
 
     dependency 'io.reactivex.rxjava2:rxjava:2.2.21'
 
-    dependencySet(group: 'io.vertx', version: '4.2.7') {
+    dependencySet(group: 'io.vertx', version: '4.5.10') {
       entry 'vertx-auth-jwt'
       entry 'vertx-codegen'
       entry 'vertx-core'

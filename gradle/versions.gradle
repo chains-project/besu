@@ -184,7 +184,7 @@ dependencyManagement {
 
     dependency 'org.slf4j:slf4j-api:1.7.36'
 
-    dependency 'org.springframework.security:spring-security-crypto:5.7.2'
+    dependency 'org.springframework.security:spring-security-crypto:5.8.15'
 
     dependency 'org.testcontainers:testcontainers:1.17.2'
 

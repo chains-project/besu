@@ -89,7 +89,7 @@ dependencyManagement {
     dependency 'io.opentracing:opentracing-api:0.33.0'
     dependency 'io.opentracing:opentracing-util:0.33.0'
 
-    dependency 'io.pkts:pkts-core:3.0.10'
+    dependency 'io.pkts:pkts-core:3.0.18'
 
     dependency 'io.prometheus:simpleclient:0.9.0'
     dependency 'io.prometheus:simpleclient_common:0.9.0'
